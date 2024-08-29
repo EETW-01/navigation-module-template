@@ -1,0 +1,18 @@
+See file:///C:/Users/002547/git/wshk-amr-ro/Module_D/HG/HK_Team/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramDebugExecutableFrcUserProgramCpp.
+compiling DataContainer.cpp successful.
+
+compiling VisionThread.cpp successful.
+
+compiling DepthCamera.cpp successful.
+
+compiling RobotContainer.cpp successful.
+
+compiling Navigation.cpp successful.
+
+compiling AutoCommand.cpp successful.
+
+compiling Robot.cpp successful.
+
+compiling DriveTrain.cpp successful.
+
+Finished compileFrcUserProgramDebugExecutableFrcUserProgramCpp, see full log file:///C:/Users/002547/git/wshk-amr-ro/Module_D/HG/HK_Team/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt.
